@@ -12,10 +12,6 @@ https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-stan
 
   
 <P STYLE="margin-bottom: 0in"><FONT SIZE=7 STYLE="font-size: 96pt"><B>Weapons:</B></FONT></P>
-
-
-
-
 <P STYLE="margin-bottom: 0in"><FONT SIZE=7 STYLE="font-size: 64pt"><B>SMG:</B></FONT></P>
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
