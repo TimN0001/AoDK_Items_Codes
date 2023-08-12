@@ -2,7 +2,7 @@
 Tiny Tina's Assault on Dragon Keep Item Codes
 
 These item codes are for Items in the Game TTAoDK Stand alone game. <BR>
-<P>https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-standalone-game-on-the-epic-store/</P>
+https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-standalone-game-on-the-epic-store/
 <BR>
 https://github.com/Natsu235/Gibbed.TinyTinaAoDK/releases/tag/1.0.11
 <BR>
