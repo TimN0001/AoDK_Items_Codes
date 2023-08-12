@@ -1,13 +1,18 @@
 # AoDK_Items_Codes
 Tiny Tina's Assault on Dragon Keep Item Codes
 
-These item codes are for Items in the Game TTAoDK Stand alone game. <BR>
+These item codes are for Items in the Game TTAoDK Stand alone game. 
+
+
 https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-standalone-game-on-the-epic-store/
-<BR>
+
+
 https://github.com/Natsu235/Gibbed.TinyTinaAoDK/releases/tag/1.0.11
-<BR>
+
+
 https://github.com/Natsu235/Gibbed.TinyTinaAoDK/releases/download/1.0.11/aodk_saveedit_1.0.11.zip
-<BR>
+
+
 <P><IMG SRC="AoDK%20Item%20Codes_html_7d676f7e.png" NAME="graphics17" ALIGN=LEFT WIDTH=479 HEIGHT=526 BORDER=0><BR CLEAR=LEFT></P>
 <P>Apt Florentine - AODK(hwAAAAAr3QlDiAAIETEarWI5wYIAcAFLChYILBdY/v8zAITCkgDw)</P>
 <P><IMG SRC="AoDK%20Item%20Codes_html_5407910a.png" NAME="graphics37" ALIGN=LEFT WIDTH=482 HEIGHT=534 BORDER=0><BR CLEAR=LEFT></P>
