@@ -8,23 +8,6 @@ https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-stan
 
 
 
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<HTML>
-<HEAD>
-	<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">
-	<TITLE></TITLE>
-	<META NAME="GENERATOR" CONTENT="OpenOffice 4.1.14  (Win32)">
-	<META NAME="AUTHOR" CONTENT="Tim ">
-	<META NAME="CREATED" CONTENT="20230809;15244015">
-	<META NAME="CHANGEDBY" CONTENT="Tim ">
-	<META NAME="CHANGED" CONTENT="20230811;17443179">
-	<STYLE TYPE="text/css">
-	<!--
-		@page { margin: 0.79in }
-		P { margin-bottom: 0.08in }
-	-->
-	</STYLE>
-</HEAD>
 <BODY LANG="en-US" DIR="LTR">
 <P STYLE="margin-bottom: 0in"><BR>
 </P>
@@ -950,8 +933,7 @@ AODK(BwAAAAD75QAICz7YIBGjEQDA////////////fwbABMA=)</P>
 AODK(BwAAAAAoWAAZC2DYIBGjEQDA////////////fw1ABcA=) Discovered in
 editor</P>
 <P STYLE="margin-bottom: 0in"><BR>
-</P>
-<P STYLE="margin-bottom: 0in"><BR>
-</P>
-</BODY>
-</HTML>
+
+
+
+
