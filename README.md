@@ -9,13 +9,11 @@ https://www.pcgamer.com/borderlands-2s-original-tiny-tina-dlc-is-now-a-free-stan
 <P STYLE="margin-bottom: 0in"><FONT SIZE=7 STYLE="font-size: 96pt"><B>Weapons:</B></FONT></P>
 <P STYLE="margin-bottom: 0in"><FONT SIZE=7 STYLE="font-size: 64pt"><B>SMG:</B></FONT></P>
 <P STYLE="margin-bottom: 0in"><IMG SRC="AoDK%20Item%20Codes_html_7d676f7e.png" NAME="graphics17" ALIGN=LEFT WIDTH=479 HEIGHT=526 BORDER=0><BR CLEAR=LEFT><BR></P>
-<P STYLE="margin-bottom: 0in">Apt Florentine -
-AODK(hwAAAAAr3QlDiAAIETEarWI5wYIAcAFLChYILBdY/v8zAITCkgDw)</P>
-<P STYLE="margin-bottom: 0in"><BR></P>
+<P STYLE="margin-bottom: 0in">Apt Florentine - AODK(hwAAAAAr3QlDiAAIETEarWI5wYIAcAFLChYILBdY/v8zAITCkgDw)</P>
+
 <P STYLE="margin-bottom: 0in"><IMG SRC="AoDK%20Item%20Codes_html_5407910a.png" NAME="graphics37" ALIGN=LEFT WIDTH=482 HEIGHT=534 BORDER=0><BR CLEAR=LEFT><BR></P>
-<P STYLE="margin-bottom: 0in">Apt Florentine -
-AODK(hwAAAADJYglDiAAIETEarWIxwYIAMAFLChYILBdY/v8zAITCkgDw)</P>
-<P STYLE="margin-bottom: 0in"><BR></P>
+<P STYLE="margin-bottom: 0in">Apt Florentine - AODK(hwAAAADJYglDiAAIETEarWIxwYIAMAFLChYILBdY/v8zAITCkgDw)</P>
+
 <P STYLE="margin-bottom: 0in"><BR></P>
 <P STYLE="margin-bottom: 0in"><BR></P>
 <P STYLE="margin-bottom: 0in"><IMG SRC="AoDK%20Item%20Codes_html_91a77eb.png" NAME="graphics54" ALIGN=LEFT WIDTH=484 HEIGHT=533 BORDER=0><BR CLEAR=LEFT><BR></P>
